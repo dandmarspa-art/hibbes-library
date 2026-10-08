@@ -80,6 +80,28 @@
       "createdBy": "dandmarspa-art",
       "createdAt": "2026-10-08T17:56:41.801Z",
       "updatedAt": "2026-10-08T17:56:41.805Z"
+    },
+    {
+      "title": "kaitania Qiyana Mid",
+      "description": "",
+      "difficulty": "advanced",
+      "champions": [],
+      "tags": [],
+      "id": "c2347cef532f",
+      "sectionId": "rolemid",
+      "lessons": [
+        {
+          "id": "59a68fc512d5",
+          "title": "WHY QIYANA HAS A LOW WIN RATE (CHALLENGER EXPLAINS)",
+          "url": "https://youtu.be/v-jBKOKsdVM",
+          "notes": "",
+          "addedBy": "dandmarspa-art",
+          "addedAt": "2026-10-08T18:49:45.963Z"
+        }
+      ],
+      "createdBy": "dandmarspa-art",
+      "createdAt": "2026-10-08T18:49:45.961Z",
+      "updatedAt": "2026-10-08T18:49:45.963Z"
     }
   ]
 }
