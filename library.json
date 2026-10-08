@@ -102,6 +102,30 @@
       "createdBy": "dandmarspa-art",
       "createdAt": "2026-10-08T18:49:45.961Z",
       "updatedAt": "2026-10-08T18:49:45.963Z"
+    },
+    {
+      "title": "Azir vs Akali, como ganar matchups desfavorables",
+      "description": "",
+      "difficulty": "intermediate",
+      "champions": [
+        "Azir"
+      ],
+      "tags": [],
+      "id": "464244a87a34",
+      "sectionId": "rolemid",
+      "lessons": [
+        {
+          "id": "36d57bdd9541",
+          "title": "HOW TO HARD CARRY ON AZIR IN LOSING MATCHUPS",
+          "url": "https://www.youtube.com/watch?v=1piz_EpG-LE",
+          "notes": "",
+          "addedBy": "dandmarspa-art",
+          "addedAt": "2026-10-08T18:58:57.657Z"
+        }
+      ],
+      "createdBy": "dandmarspa-art",
+      "createdAt": "2026-10-08T18:58:57.655Z",
+      "updatedAt": "2026-10-08T18:58:57.657Z"
     }
   ]
 }
