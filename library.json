@@ -56,5 +56,30 @@
       "createdAt": "2026-10-08T12:00:00.000Z"
     }
   ],
-  "guides": []
+  "guides": [
+    {
+      "title": "Davemon Qiyana Mid",
+      "description": "",
+      "difficulty": "advanced",
+      "champions": [
+        "Qiyana"
+      ],
+      "tags": [],
+      "id": "a71e6828c952",
+      "sectionId": "rolemid",
+      "lessons": [
+        {
+          "id": "0513863dfcd0",
+          "title": "How I Consistently Win Mid Lane as Qiyana",
+          "url": "https://www.youtube.com/watch?v=Jm7XkL62cC4",
+          "notes": "",
+          "addedBy": "dandmarspa-art",
+          "addedAt": "2026-10-08T17:56:41.805Z"
+        }
+      ],
+      "createdBy": "dandmarspa-art",
+      "createdAt": "2026-10-08T17:56:41.801Z",
+      "updatedAt": "2026-10-08T17:56:41.805Z"
+    }
+  ]
 }
