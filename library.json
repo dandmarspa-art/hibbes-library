@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "sections": [
+    {
+      "title": "Fundamentos",
+      "description": "Oleadas, visión, trades, macro y mentalidad: lo que necesita cualquier rol.",
+      "icon": "📘",
+      "id": "fundamentals",
+      "parentId": null,
+      "createdBy": null,
+      "createdAt": "2026-10-08T12:00:00.000Z"
+    },
+    {
+      "title": "Top",
+      "description": "",
+      "icon": "🛡️",
+      "id": "roletop",
+      "parentId": null,
+      "createdBy": null,
+      "createdAt": "2026-10-08T12:00:00.000Z"
+    },
+    {
+      "title": "Jungla",
+      "description": "",
+      "icon": "🌲",
+      "id": "rolejungle",
+      "parentId": null,
+      "createdBy": null,
+      "createdAt": "2026-10-08T12:00:00.000Z"
+    },
+    {
+      "title": "Mid",
+      "description": "",
+      "icon": "✨",
+      "id": "rolemid",
+      "parentId": null,
+      "createdBy": null,
+      "createdAt": "2026-10-08T12:00:00.000Z"
+    },
+    {
+      "title": "ADC",
+      "description": "",
+      "icon": "🏹",
+      "id": "roleadc",
+      "parentId": null,
+      "createdBy": null,
+      "createdAt": "2026-10-08T12:00:00.000Z"
+    },
+    {
+      "title": "Support",
+      "description": "",
+      "icon": "💞",
+      "id": "rolesupport",
+      "parentId": null,
+      "createdBy": null,
+      "createdAt": "2026-10-08T12:00:00.000Z"
+    }
+  ],
+  "guides": []
+}
