@@ -4,17 +4,13 @@ Librería de aprendizaje de League of Legends que construimos entre amigos: fund
 
 Aquí no hay vídeos alojados: solo enlaces. Los de YouTube se reproducen dentro de Hibbes; los de Twitch, Vimeo u otras webs se abren en el navegador.
 
-## Cómo contribuir
+## Quién edita
 
-1. Pide al dueño del repo que te añada como colaborador y acepta la invitación.
-2. En Hibbes: **Ajustes → Biblioteca → Crear token en GitHub** (token clásico, solo el permiso `public_repo`, con caducidad) y pégalo en **Conectar**.
-3. En la Biblioteca pulsa **✎ Editar** para crear secciones, subsecciones, guías y lecciones.
-
-Cada cambio hecho desde la app es un commit con tu usuario, así que todo queda en el historial y se puede deshacer.
+Solo el dueño de la biblioteca, desde la sección Biblioteca de Hibbes en su PC: prepara secciones, guías y vídeos en un borrador y los publica aquí en un solo commit. Los demás solo ven: no necesitan cuenta, clave ni permiso. ¿Tienes un vídeo bueno? Pásaselo al dueño.
 
 ## El archivo
 
-Todo está en [`library.json`](library.json). Se puede editar a mano aquí en GitHub, pero es más fácil desde la app (valida el formato y evita pisar cambios de otros). Si el archivo queda inválido, Hibbes sigue mostrando su última copia buena hasta que se arregle.
+Todo está en [`library.json`](library.json). Se puede editar a mano aquí en GitHub, pero es más fácil desde la app (valida el formato). Si el archivo queda inválido, Hibbes sigue mostrando su última copia buena hasta que se arregle.
 
 - `sections`: carpetas (`parentId` = sección padre, `null` = nivel superior), con `icon` (un emoji).
 - `guides`: cursos dentro de una sección (`sectionId`), con `difficulty` (`beginner`, `intermediate`, `advanced` o `null`), `champions` (ids de Data Dragon, p. ej. `MonkeyKing`) y `tags`.
