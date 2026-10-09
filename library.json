@@ -126,6 +126,30 @@
       "createdBy": "dandmarspa-art",
       "createdAt": "2026-10-08T18:58:57.655Z",
       "updatedAt": "2026-10-08T18:58:57.657Z"
+    },
+    {
+      "title": "Akali vs Jax",
+      "description": "",
+      "difficulty": "advanced",
+      "champions": [
+        "Akali"
+      ],
+      "tags": [],
+      "id": "a1562f7df100",
+      "sectionId": "roletop",
+      "lessons": [
+        {
+          "id": "9b77d4a12ff5",
+          "title": "How to ABUSE Akali Top & Create 4 Level Leads - it's UNFAIR",
+          "url": "https://youtu.be/dqu52ABk19w?t=256",
+          "notes": "",
+          "addedBy": "dandmarspa-art",
+          "addedAt": "2026-10-09T16:55:55.998Z"
+        }
+      ],
+      "createdBy": "dandmarspa-art",
+      "createdAt": "2026-10-09T16:55:55.994Z",
+      "updatedAt": "2026-10-09T16:55:55.998Z"
     }
   ]
 }
