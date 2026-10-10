@@ -158,6 +158,30 @@
       "createdBy": "dandmarspa-art",
       "createdAt": "2026-10-09T16:55:55.994Z",
       "updatedAt": "2026-10-09T16:55:55.998Z"
+    },
+    {
+      "title": "Sylas mid vs Yasuo Master",
+      "description": "",
+      "difficulty": "intermediate",
+      "champions": [
+        "Sylas"
+      ],
+      "tags": [],
+      "id": "af7da5616a1e",
+      "sectionId": "fundamentals",
+      "lessons": [
+        {
+          "id": "6a6750e6808c",
+          "title": "The Future of Sylas...",
+          "url": "https://youtu.be/jBAlPuww1bk?t=360",
+          "notes": "",
+          "addedBy": "dandmarspa-art",
+          "addedAt": "2026-10-10T12:56:49.294Z"
+        }
+      ],
+      "createdBy": "dandmarspa-art",
+      "createdAt": "2026-10-10T12:56:49.289Z",
+      "updatedAt": "2026-10-10T12:56:49.294Z"
     }
   ]
 }
