@@ -190,6 +190,28 @@
       "createdBy": "dandmarspa-art",
       "createdAt": "2026-10-10T12:56:49.289Z",
       "updatedAt": "2026-10-10T12:56:49.294Z"
+    },
+    {
+      "title": "Shok",
+      "description": "",
+      "difficulty": "intermediate",
+      "champions": [],
+      "tags": [],
+      "id": "7679c199da14",
+      "sectionId": "fundamentals",
+      "lessons": [
+        {
+          "id": "f11e439f0aff",
+          "title": "HOW TO CLIMB + FUNDAMENTALS TIER LIST",
+          "url": "https://www.youtube.com/watch?v=D2ZFsImgBcU",
+          "notes": "",
+          "addedBy": "dandmarspa-art",
+          "addedAt": "2026-10-14T15:56:14.915Z"
+        }
+      ],
+      "createdBy": "dandmarspa-art",
+      "createdAt": "2026-10-14T15:56:14.911Z",
+      "updatedAt": "2026-10-14T15:56:14.915Z"
     }
   ]
 }
